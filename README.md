@@ -40,7 +40,7 @@ Cythonを使った方法ではなく、Cで`#include <Python.h>`してPythonを�
 ### それらのうち、特に参考にしたもの
 
 - コンパイラ・リンカオプションについて  
-    [1.6. Unix 系システムにおけるコンパイルとリンク](https://docs.python.org/ja/3/c-api/index.html#python-c-api-reference-manual)
+    [1.6. Unix 系システムにおけるコンパイルとリンク](https://docs.python.org/ja/3/extending/embedding.html#compiling-and-linking-under-unix-like-systems)
 
 - Pythonのコード文字列をCで実行  
     [1.1. 高水準の埋め込み](https://docs.python.org/ja/3/extending/embedding.html#very-high-level-embedding)
